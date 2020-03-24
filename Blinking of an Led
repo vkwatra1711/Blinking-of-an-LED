@@ -1,0 +1,120 @@
+int led_builtin=D7;
+
+void setup() {
+
+
+  pinMode(led_builtin, OUTPUT);
+}
+void loop() {
+
+  digitalWrite(led_builtin, HIGH);
+  delay(500);
+
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(1500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(2000);
+  
+  
+  
+  
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(1500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(2000);
+  
+  
+  
+  
+  
+  digitalWrite(led_builtin, LOW);
+
+  delay(1500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(2000);
+  
+  
+  
+  
+  
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(2000);
+  
+  
+  
+  
+  
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(500);
+  digitalWrite(led_builtin, HIGH);
+
+  delay(500);
+  digitalWrite(led_builtin, LOW);
+
+  delay(2000);
+  
+}
